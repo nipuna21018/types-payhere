@@ -1,0 +1,26 @@
+{
+  "name": "types-payhere",
+  "version": "0.0.3",
+  "description": "Type Script definitions for the ionic cordova plugin 'cordova-plugin-payhere'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nipuna21018/types-payhere.git"
+  },
+  "keywords": [
+    "payhere",
+    "cordova",
+    "types",
+    "payment",
+    "gateway"
+  ],
+  "author": "Nipuna Harshana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nipuna21018/types-payhere/issues"
+  },
+  "homepage": "https://github.com/nipuna21018/types-payhere#readme"
+}
