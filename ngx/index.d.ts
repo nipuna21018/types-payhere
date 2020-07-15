@@ -16,6 +16,7 @@ export declare class PayHere extends IonicNativePlugin {
 export interface CheckoutRequest {
     sandboxEnabled?: boolean;
     merchantId: String;
+    merchantSecret: String;
     notifyURL: String;
     amount: Number;
     currency: Currency;
@@ -31,6 +32,7 @@ export interface CheckoutRequest {
 export interface PreApproveRequest {
     sandboxEnabled?: boolean;
     merchantId: String;
+    merchantSecret: String;
     notifyURL: String;
     currency: Currency;
     orderId: String;
