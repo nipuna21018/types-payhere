@@ -1,6 +1,6 @@
 {
   "name": "types-payhere",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Type Script definitions for the ionic cordova plugin 'cordova-plugin-payhere'",
   "main": "index.js",
   "scripts": {
